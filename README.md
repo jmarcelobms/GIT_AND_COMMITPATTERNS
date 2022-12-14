@@ -1,3 +1,5 @@
+<h1>PADRÃO DE COMMITS BMS</h1>
+
 ### Tipo
 
 Um prefixo curto que representa o tipo de mudança, e pode ser:
@@ -34,18 +36,3 @@ Contém uma descrição sucinta da mudança.
 
 docs(readme): atualizado pré-requisitos
 fix(gerenciamento_nota): bloqueado inputs caso a nota seja de cancelamento
-
-
-| ✅ Faça isso                                 | ❌ Não faça isso                              |
-| -------------------------------------------- | ---------------------------------------------- |
-| docs(adr): adicionar padrões de commit       | docs(ADR): adicionar padrões de confirmação    |
-| feat(gerenciamento_nota): adicionar edição   | feat(gerenciamento-nota): adicionar edição     |
-| perf(api_webmania): forma de consumir a api  | ci(docker): Forma de consumir a api            |
-| fix: devolução de nota                       | fix: fix devolução de nota                     |
-| feat(base_url): atualizado base url           | feat(produto): atualizando base url            |
-
-## Consequences
-
-Isso leva a mensagens mais legíveis que são fáceis de seguir ao examinar o histórico do projeto.
-
-teste
