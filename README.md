@@ -36,3 +36,11 @@ Contém uma descrição sucinta da mudança.
 
 docs(readme): atualizado pré-requisitos
 fix(gerenciamento_nota): bloqueado inputs caso a nota seja de cancelamento
+
+
+### COMANDOS GIT
+
+git reset --hard HEAD~1 "Volta sempre o ultimo commit"
+
+git restart(caminho do arquivo) "retorna o arquivo para a forma original dele, sem nenhuma modificação"
+
