@@ -42,5 +42,5 @@ fix(gerenciamento_nota): bloqueado inputs caso a nota seja de cancelamento
 
 git reset --hard HEAD~1 "Volta sempre o ultimo commit"
 
-git restart(caminho do arquivo) "retorna o arquivo para a forma original dele, sem nenhuma modificação"
+git restore (caminho do arquivo) "retorna o arquivo para a forma original dele, sem nenhuma modificação"
 
