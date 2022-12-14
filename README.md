@@ -2,16 +2,16 @@
 
 Um prefixo curto que representa o tipo de mudança, e pode ser:
 
-`feat`: Nova funcionalidade
-`fix`: Correção de bug
-`perf`: Melhoria de performance
-`revert`: Reversão para um estador anterior
-`docs`: Documentação
-`style`: Alterações que não afetam o significado do código (espaço em branco, formatação, etc)
-`chore`: Tarefas diversas, sem alteração do código de produção (mudanças em configurações, etc)
-`refactor`: Alteração de código que não corrige um bug, nem adiciona um recurso
-`test`: Adição de testes ausentes ou correção de testes existentes
-`build`: Mudanças que afetam o sistema de build ou dependências externas
+`feat`: Nova funcionalidade <br />
+`fix`: Correção de bug <br />
+`perf`: Melhoria de performance <br />
+`revert`: Reversão para um estador anterior <br />
+`docs`: Documentação <br />
+`style`: Alterações que não afetam o significado do código (espaço em branco, formatação, etc) <br />
+`chore`: Tarefas diversas, sem alteração do código de produção (mudanças em configurações, etc) <br />
+`refactor`: Alteração de código que não corrige um bug, nem adiciona um recurso <br />
+`test`: Adição de testes ausentes ou correção de testes existentes <br />
+`build`: Mudanças que afetam o sistema de build ou dependências externas <br />
 
 ### Escopo
 
