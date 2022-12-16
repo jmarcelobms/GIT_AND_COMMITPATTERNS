@@ -31,7 +31,7 @@ Contém uma descrição sucinta da mudança.
 
 ---
 
-ℹ️ Exemplos de commits
+### Exemplos de commits
 
 
 docs(readme): atualizado pré-requisitos
